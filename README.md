@@ -1,4 +1,4 @@
-# Randon Password Generator
+# aarons-passwords
 
 ## Description
 
